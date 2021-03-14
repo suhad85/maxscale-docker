@@ -9,3 +9,8 @@ results = cursor.fetchall()
 for result in results:
     print(result)
 
+print('The first 10 rows of zipcodes_two are:')
+cursor.execute("SELECT * FROM zipcodes_two.zipcodes_two LIMIT 10")
+results = cursor.fetchall()
+for result in results:
+    print(result)
