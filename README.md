@@ -94,12 +94,7 @@ Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 MariaDB [(none)]> 
 ```
-
-
-
-## Executing SQL Queries on pycharm:
-```
-
+### on the pycharm:
 SELECT * FROM zipcodes_one.zipcodes_one LIMIT 9990,10;
 ```
 
@@ -185,10 +180,10 @@ docker-compose down -v
 ```
 ## Sources:
 
-	https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-10
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-10
 
-	https://mariadb.com/kb/en/mariadb-maxscale-25-simple-sharding-with-two-servers/
+https://mariadb.com/kb/en/mariadb-maxscale-25-simple-sharding-with-two-servers/
 
-        (https://docs.docker.com/compose/install/)
+(https://docs.docker.com/compose/install/)
 
 Also i worked with Mohammad Pakizeh
