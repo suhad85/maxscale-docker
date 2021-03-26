@@ -92,14 +92,4 @@ Server version: 10.5.9-MariaDB-1:10.5.9+maria~focal-log mariadb.org binary distr
 Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
 
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
-
-MariaDB [(none)]> show databases;
-+--------------------+
-| Databases          |
-+--------------------+
-| information_schema |
-| mysql              |
-
-
-<b>5 rows in set (0.001 sec)</b>
 ```
