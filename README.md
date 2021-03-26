@@ -95,13 +95,11 @@ Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 
 MariaDB [(none)]> show databases;
 +--------------------+
-| Database           |
+| Databases          |
 +--------------------+
 | information_schema |
 | mysql              |
-| performance_schema |
-| zipcodes_one       |
-| zipcodes_two       |
-+--------------------+
+
+
 <b>5 rows in set (0.001 sec)</b>
 ```
